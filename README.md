@@ -3,7 +3,7 @@ H2 Database Feature Extension - Custom DataType
 
 ### About ###
 -----------------------------
-This project is about learning and implementing a custom data type called ***EMAIL*** in the H2 Database using JAVA. 
+This project is about learning and implementing a custom data type called ***EMAIL*** in the H2 Database using Java. 
 
 ### Technology Stack ### 
 -----------------------------
@@ -12,7 +12,6 @@ This project is about learning and implementing a custom data type called ***EMA
 3. Maven
 4. H2 Database
 5. Custom Data Type Handler
-6. Java Swing Builder
 
 ### Graphical user interface ###
 -----------------------------
